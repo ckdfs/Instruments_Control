@@ -1,0 +1,3 @@
+[submodule "PyApex"]
+	path = PyApex
+	url = https://github.com/Apex-technologies/PyApex.git
