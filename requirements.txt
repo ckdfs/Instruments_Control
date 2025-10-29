@@ -1,0 +1,17 @@
+# 仪器控制系统依赖包
+# PyQt5 和界面库
+PyQt5>=5.15.0
+PyQt5-Qt5>=5.15.2
+PyQt5-sip>=12.11.0
+PyQt-Fluent-Widgets>=1.1.0
+pyqtgraph>=0.13.0
+
+# 仪器控制库
+RsInstrument>=1.70.0
+
+# 数据处理
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# 其他工具
+argparse

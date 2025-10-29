@@ -1,0 +1,30 @@
+{
+    "instruments": {
+        "osa": {
+            "ip": "192.168.99.198",
+            "port": 5900,
+            "default_center_nm": 1550.0,
+            "default_span_nm": 0.25,
+            "default_channel": "1"
+        },
+        "sa": {
+            "ip": "192.168.99.209",
+            "default_center_mhz": 10.5,
+            "default_span_mhz": 8.0,
+            "default_rbw_hz": 1000,
+            "default_vbw_hz": 10
+        },
+        "afg": {
+            "ip": "192.168.1.100",
+            "port": 4000
+        },
+        "power": {
+            "ip": "192.168.1.101",
+            "port": 5025
+        }
+    },
+    "ui": {
+        "theme": "light",
+        "language": "zh_CN"
+    }
+}
